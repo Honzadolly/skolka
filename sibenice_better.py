@@ -79,5 +79,5 @@ while True:
                     print(i, end = " ")
                 #print('\n', word)
     else:
-        exit('\nVyhral jsi!!')
+        exit('\nVyhral jsi Šerife!!')
 
